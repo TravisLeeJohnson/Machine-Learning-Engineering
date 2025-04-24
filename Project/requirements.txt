@@ -1,0 +1,10 @@
+# Requirements for Stock Market Prediction Project
+pandas
+numpy
+matplotlib
+scikit-learn
+xgboost
+keras
+tensorflow
+yfinance
+vaderSentiment
